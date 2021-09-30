@@ -32,8 +32,12 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 566px;
+  }
+
   .u-section-1 .u-image-1 {
-    margin-left: calc(((100% - 940px) / 2) + -115px);
+    margin-left: calc(((100% - 940px) / 2) + -140px);
   }
 
   .u-section-1 .u-text-2 {
@@ -48,25 +52,25 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: -605px;
-    margin-left: calc(((100% - 720px) / 2) + 244px);
+    margin-top: -476px;
+    margin-left: calc(((100% - 720px) / 2) + 248px);
   }
 
   .u-section-1 .u-group-1 {
-    margin-top: 658px;
+    margin-top: 529px;
     margin-bottom: 0;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-image-1 {
-    margin-top: -611px;
-    margin-left: auto;
+    margin-top: -475px;
+    margin-left: calc(((100% - 540px) / 2) + 163px);
   }
 
   .u-section-1 .u-group-1 {
     min-height: 384px;
-    margin-top: 543px;
+    margin-top: 407px;
     margin-bottom: 60px;
   }
 
@@ -77,9 +81,18 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 686px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -470px;
+    margin-left: calc(((100% - 340px) / 2) + 62px);
+  }
+
   .u-section-1 .u-group-1 {
     min-height: 480px;
-    margin-top: 432px;
+    margin-top: 384px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 1417px;
@@ -254,13 +267,13 @@
     margin: 24px 20px 0;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 340px;
 }
 
 .u-section-3 .u-group-1 {
   width: 333px;
   min-height: 61px;
-  margin: 138px auto 0;
+  margin: 35px auto 0;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -318,13 +331,13 @@
     margin-right: auto;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 275px;
 }
 
 .u-section-4 .u-group-1 {
   width: 333px;
   min-height: 61px;
-  margin: 120px auto 0;
+  margin: 27px auto 0;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -336,7 +349,7 @@
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 4px;
-  margin: 0 auto;
+  margin: 13px auto 0;
 }
 
 .u-section-4 .u-social-icons-1 {
