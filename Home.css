@@ -379,3 +379,15 @@
 .u-section-4 .u-icon-5 {
   height: 100%;
 }
+
+.u-social-icons .u-icon {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+
+.u-social-icons a:not(:last-child) {
+    margin-left: 90px;
+    margin-right: -90px;
+}
