@@ -34,6 +34,7 @@
 @media (max-width: 1199px) {
   .u-section-1 {
     min-height: 566px;
+    margin-top: -80px;
   }
 
   .u-section-1 .u-image-1 {
